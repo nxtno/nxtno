@@ -7,7 +7,6 @@
   </a>
 </p>
 
-**Gerrik Bold**
 Kein Studium. Kein Umweg. Self-made.
 
 ---
