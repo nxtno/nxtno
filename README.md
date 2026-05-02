@@ -7,34 +7,48 @@
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   </a>
 </p>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Was ich gerade baue**
+What I'm building
 
-[E-Commerce BI Analysis](https://github.com/nxtno/data-analytics-portfolio)
+---
 
-Python → SQL → Tableau. Ein Datensatz, drei Layer, eine echte Business-Frage.
+<a href="https://github.com/nxtno/data-analytics-portfolio">E-Commerce BI Analysis</a>
 
-[Live Dashboard →](https://public.tableau.com/app/profile/gerrik.bold/viz/ecommerce-bi-analysis/E-CommerceBIAnalysis)
+Python → SQL → Tableau. One dataset, three layers, one real business question.
+
+<a href="https://public.tableau.com/app/profile/gerrik.bold/viz/ecommerce-bi-analysis/E-CommerceBIAnalysis">Live Dashboard →</a>
 
 </td>
 <td width="50%" valign="top">
 
-**Womit ich mich beschäftige**
+What I'm into
+
 ---
-Data Analytics — weil Entscheidungen Daten brauchen.
+
+Data Analytics — because decisions need data.
+
 ---
-KI & Multi-Agent Systeme — weil ein Modell alleine nicht reicht.
+
+AI & Multi-Agent Systems — because one model is never enough.
+
 ---
-Quantencomputing — IBM, gerade am Anfang, aber dran.
+
+Quantum Computing — IBM, just getting started, but on it.
+
 ---
-Linux — Fedora, ThinkPad, läuft.
----
+
+Linux — Fedora, ThinkPad, works.
+
 </td>
 </tr>
 </table>
+
+<br>
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   &nbsp;
