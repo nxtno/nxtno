@@ -1,4 +1,4 @@
-# Hey, ich bin Gerrik.
+# Hi
 
 Ich mache Daten lesbar — für Menschen, nicht Maschinen.
 
