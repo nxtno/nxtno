@@ -7,23 +7,13 @@
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   </a>
 </p>
-
-<br>
-
 Kein Studium. Kein Umweg. Self-made.
-
-<br><br>
-
----
-
 <br>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **Was ich gerade baue**
-
 <br>
 
 [E-Commerce BI Analysis](https://github.com/nxtno/data-analytics-portfolio)
