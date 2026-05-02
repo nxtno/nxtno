@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   </a>
 </p>
-**Kein Studium. Kein Umweg. Self-made.**
+#### Kein Studium. Kein Umweg. Self-made.
 <br>
 <table width="100%">
 <tr>
