@@ -7,13 +7,11 @@
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   </a>
 </p>
-<br>
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **Was ich gerade baue**
-<br>
 
 [E-Commerce BI Analysis](https://github.com/nxtno/data-analytics-portfolio)
 
@@ -25,33 +23,18 @@ Python → SQL → Tableau. Ein Datensatz, drei Layer, eine echte Business-Frage
 <td width="50%" valign="top">
 
 **Womit ich mich beschäftige**
-
-<br>
-
+---
 Data Analytics — weil Entscheidungen Daten brauchen.
-
-<br>
-
+---
 KI & Multi-Agent Systeme — weil ein Modell alleine nicht reicht.
-
-<br>
-
+---
 Quantencomputing — IBM, gerade am Anfang, aber dran.
-
-<br>
-
+---
 Linux — Fedora, ThinkPad, läuft.
-
+---
 </td>
 </tr>
 </table>
-
-<br><br>
-
----
-
-<br>
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   &nbsp;
