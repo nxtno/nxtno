@@ -33,6 +33,7 @@ Quantum Computing — IBM, just getting started, but on it.
 
 Linux — Fedora, ThinkPad, works.
 
+---
 </td>
 </tr>
 </table>
