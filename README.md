@@ -1,13 +1,3 @@
-<p align="right">
-  <a href="https://linkedin.com/in/gerrik-boldemann">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://public.tableau.com/app/profile/gerrik.bold">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  </a>
-</p>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
