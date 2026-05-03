@@ -19,19 +19,19 @@ What I'm into
 
 ---
 
-Data Analytics — because decisions need data.
+Data Analytics — because decisions need data
 
 ---
 
-AI & Multi-Agent Systems — because one model is never enough.
+AI & Multi-Agent Systems — because one model is never enough
 
 ---
 
-Quantum Computing — IBM, just getting started, but on it.
+Quantum Computing — IBM, just getting started, but on it
 
 ---
 
-Linux — Fedora, ThinkPad, works.
+Linux — Fedora, ThinkPad, works! - fck microsoft
 
 ---
 </td>
