@@ -10,7 +10,7 @@ What I'm building
 
 Python → SQL → Tableau. One dataset, three layers, one real business question.
 
-<a href="https://public.tableau.com/app/profile/gerrik.bold/viz/ecommerce-bi-analysis/E-CommerceBIAnalysis">Live Dashboard →</a>
+<a href="https://public.tableau.com/app/profile/gerrik.bold/vizzes">Table Public Vizzes →</a>
 
 </td>
 <td width="50%" valign="top">
