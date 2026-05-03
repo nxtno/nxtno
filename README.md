@@ -31,7 +31,7 @@ Quantum Computing — IBM, just getting started, but on it
 
 ---
 
-Linux — Fedora, ThinkPad, works! - fck microsoft
+Linux — Fedora, ThinkPad, works! - fck ms
 
 ---
 </td>
