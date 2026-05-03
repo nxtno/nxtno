@@ -6,7 +6,7 @@ What I'm building
 
 ---
 
-<a href="https://github.com/nxtno/data-analytics-portfolio">E-Commerce BI Analysis</a>
+<a href="https://github.com/nxtno/data-analytics-portfolio">Data Analytics Porfolio</a>
 
 Python → SQL → Tableau. One dataset, three layers, one real business question.
 
